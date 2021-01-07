@@ -8,6 +8,11 @@
 var b = 2
 console.log(b)
 ```
+
+这也是一行代码
+
+`var c = 3 `
+
     
     
 ## 我的爱好
